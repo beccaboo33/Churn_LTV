@@ -1,5 +1,5 @@
 ---
-title: "Churn Analysis"
+title: "Exploratory Data Analysis" 
 author: "Pik Shan Yiu"
 date: "5/14/2019"
 output: html_document
