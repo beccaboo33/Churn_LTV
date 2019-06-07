@@ -5,10 +5,8 @@ Survival Analysis with `lifelines` package.
 <br>
 
 Exploratory Data Analysis: 'EDA.Rmd' & 'EDA.html'<br>
-
 <br>
 Churn Modeling: 'Prediction Model.ipynb' & 'prediction_model.py' (will continue to update)
-
 <br>
 Survival & LTV analysis: 'Survival Analysis.ipynb'
 
