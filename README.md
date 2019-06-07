@@ -4,7 +4,7 @@ Use of supervised modeling such as random forest, gradient boosting and more...
 Survival Analysis with `lifelines` package.
 <br>
 
-Exploratory Data Analysis: 'EDA.Rmd' & 'EDA.html'<br>
+Exploratory Data Analysis: 'EDA.Rmd' & 'EDA.html'
 <br>
 Churn Modeling: 'Prediction Model.ipynb' & 'prediction_model.py' (will continue to update)
 <br>
